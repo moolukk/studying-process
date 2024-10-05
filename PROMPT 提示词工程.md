@@ -26,5 +26,17 @@
 
 zero-shot零样本提示 few-shot少样本提示（例子example）
 
-one-hot
+思维链（CoT）：引导模型推理，lets think step by step
+
+search api +GPT（net）
+
+![image-20241006025717932](C:\Users\zyr\AppData\Roaming\Typora\typora-user-images\image-20241006025717932.png)
+
+embedding search +GPT 相关度转化为距离（本地）
+
+![image-20241006030104345](C:\Users\zyr\AppData\Roaming\Typora\typora-user-images\image-20241006030104345.png)
+
+节省成本，保护隐私
+
+不需要微调，不需要数据上传云端
 
