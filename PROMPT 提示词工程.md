@@ -26,5 +26,5 @@
 
 zero-shot零样本提示 few-shot少样本提示（例子example）
 
-
+one-hot
 
