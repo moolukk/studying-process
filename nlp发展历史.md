@@ -30,9 +30,7 @@ Encoder-Decoder：T5
 
   预训练+微调阶段，architecture engineering逐渐消失
 
-
-
-![image-20241007235143571](C:\Users\zyr\AppData\Roaming\Typora\typora-user-images\image-20241007235143571.png)
+![](C:\Users\zyr\Pictures\Screenshots\屏幕截图 2024-10-07 235140.png)
 
 **Zero-shot（2019.2）**
 
