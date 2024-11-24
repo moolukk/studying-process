@@ -72,4 +72,4 @@ slogan：AI for everyone
 
 实时性不足
 
-无法离线
+无法离线-可同步进行网络搜索
